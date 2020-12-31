@@ -1,0 +1,4 @@
+const CHANGE_PRE = "CHANGE_PRE";
+const GET_ALL = "GET_ALL"
+
+export {CHANGE_PRE,GET_ALL}

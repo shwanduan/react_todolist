@@ -1,0 +1,14 @@
+@import './minix';
+button{
+    @include boradius;
+}
+
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.pt50{
+    padding-top: 50px;
+}
